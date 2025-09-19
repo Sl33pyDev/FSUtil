@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fsutil:block/confetticarpet",
+    "up": "fsutil:block/confetticarpet",
+    "north": "fsutil:block/confetticarpet",
+    "east": "fsutil:block/confetticarpet",
+    "south": "fsutil:block/confetticarpet",
+    "west": "fsutil:block/confetticarpet",
+    "particle": "fsutil:block/confetticarpet"
+  },
+  "render_type": "solid"
+}

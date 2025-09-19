@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "fsutil:block/curtain_door"
+    },
+    "blockstate=1": {
+      "model": "fsutil:block/curtain_door_blockstate_blockstate_1"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+FSUtil™ Mod License
+
+Copyright © 2025 Lucas Grady (Sl33py_Dev). All Rights Reserved.
+
+This software and its associated assets ("the Mod") are the intellectual property of Lucas Grady (Sl33py_Dev) and are protected under applicable copyright law.
+
+Permission to use the Mod is granted exclusively to:
+- SemiTransparentMan / FlipSide Productions
+  - https://www.youtube.com/@SemiTransparentMan
+  - https://www.youtube.com/@Flipside_Production
+  - For use in the series "MNAF"
+
+This permission is non-transferable and does not extend to collaborators, editors, server hosts, or third-party content creators unless explicitly authorized in writing by the copyright holder.
+
+Compiled versions of the Mod may be distributed privately to actors and team members directly involved in the above series, solely for production use. Redistribution beyond these teams is strictly prohibited.
+
+Any other use—including but not limited to reproduction, modification, distribution, reverse engineering, decompilation, or incorporation of the Mod or its contents—is strictly prohibited without prior written consent.
+
+The Mod may not be included in modpacks, public servers, or redistributed through any platform (including CurseForge, Modrinth, GitHub, or third-party hosting services) without explicit permission.
+
+All custom assets (including models, textures, sounds, and animations) are protected and may not be extracted, reused, or repurposed in other projects without written permission.
+
+This includes original FNaF-themed content such as the MXES block entity, which was hand-modeled and is not extracted from official titles like "Security Breach: Ruin" or "Secret of the Mimic."
+
+Asset Attribution:
+- Plushie assets (excluding Sl33py) were commissioned by SemiTransparentMan for use in MNAF.
+- The Sl33py plush was created independently by Sl33py_Dev as a personal signature and contribution to the Mod.
+
+Abandonment Notice:
+Zyphron was listed as an early developer but abandoned the project without notice, leaving broken and non-functional assets that required extensive repair. These were passed to SemiTransparentMan for triage and management. Zyphron’s contributions were minimal and do not appear in the final functional build.
+
+Permission to use this Mod may be revoked at any time if terms are violated or if usage no longer aligns with the original intent. Continued use after revocation constitutes infringement.
+
+The Mod is provided "as is", without warranty of any kind. The author shall not be held liable for any damages, data loss, performance issues, or conflicts arising from its use.
+
+Unauthorized use may result in legal action, takedown requests, or platform-level enforcement.
+
+Trademark Disclaimer:
+All referenced trademarks (including "FNaF", "Fredbear", and related characters or themes) remain the property of their respective owners. This Mod is a fan-made creation and is not affiliated with or endorsed by Scott Cawthon or Steel Wool Studios.
+
+Creator Statement:
+FSUtil was created voluntarily by Lucas Grady (Sl33py_Dev) for use in the MNAF series. The author does not seek or expect payment, royalties, or revenue share from any monetized content that may feature the Mod.
+
+Contact:
+- Email: Gradylb911@gmail.com
+- Discord: Sl33py_Dev
+- GitHub: https://github.com/Sl33pyDev

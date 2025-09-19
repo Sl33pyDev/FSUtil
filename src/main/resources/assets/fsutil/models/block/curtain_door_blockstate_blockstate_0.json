@@ -1,0 +1,9 @@
+{
+  "parent": "fsutil:custom/curtiandooropen",
+  "textures": {
+    "all": "fsutil:block/curtaindoor",
+    "particle": "fsutil:block/curtaindoor",
+    "2": "fsutil:block/curtaindoor"
+  },
+  "render_type": "cutout_mipped"
+}

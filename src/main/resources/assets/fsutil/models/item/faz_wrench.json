@@ -1,0 +1,6 @@
+{
+  "parent": "fsutil:custom/fazwrench",
+  "textures": {
+    "0": "fsutil:block/fazwrench"
+  }
+}

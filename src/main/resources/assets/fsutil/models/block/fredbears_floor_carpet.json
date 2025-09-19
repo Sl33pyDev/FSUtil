@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fsutil:block/bedroomcarpet",
+    "up": "fsutil:block/bedroomcarpet",
+    "north": "fsutil:block/bedroomcarpet",
+    "east": "fsutil:block/bedroomcarpet",
+    "south": "fsutil:block/bedroomcarpet",
+    "west": "fsutil:block/bedroomcarpet",
+    "particle": "fsutil:block/bedroomcarpet"
+  },
+  "render_type": "solid"
+}

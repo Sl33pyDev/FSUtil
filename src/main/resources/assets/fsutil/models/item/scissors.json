@@ -1,0 +1,6 @@
+{
+  "parent": "fsutil:custom/scissors",
+  "textures": {
+    "1": "fsutil:item/scissors"
+  }
+}

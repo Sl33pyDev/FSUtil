@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fsutil:block/rewritten_backroom_tile",
+    "up": "fsutil:block/rewritten_backroom_tile",
+    "north": "fsutil:block/rewritten_backroom_tile",
+    "east": "fsutil:block/rewritten_backroom_tile",
+    "south": "fsutil:block/rewritten_backroom_tile",
+    "west": "fsutil:block/rewritten_backroom_tile",
+    "particle": "fsutil:block/rewritten_backroom_tile"
+  },
+  "render_type": "solid"
+}

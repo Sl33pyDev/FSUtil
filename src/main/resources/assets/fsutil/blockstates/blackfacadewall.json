@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fsutil:block/blackfacadewall"
+    }
+  }
+}

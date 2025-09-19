@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fsutil:custom/sl33py_arm_particle"
+    },
+    "facing=east": {
+      "model": "fsutil:custom/sl33py_arm_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fsutil:custom/sl33py_arm_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fsutil:custom/sl33py_arm_particle",
+      "y": 270
+    }
+  }
+}

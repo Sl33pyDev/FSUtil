@@ -1,0 +1,6 @@
+{
+  "parent": "fsutil:displaysettings/inhibitordisplay",
+  "textures": {
+    "particle": "fsutil:block/ar_i_main"
+  }
+}

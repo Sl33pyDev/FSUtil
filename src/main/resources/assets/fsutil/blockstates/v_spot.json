@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fsutil:custom/v_spot_particle"
+    },
+    "facing=east": {
+      "model": "fsutil:custom/v_spot_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fsutil:custom/v_spot_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fsutil:custom/v_spot_particle",
+      "y": 270
+    }
+  }
+}

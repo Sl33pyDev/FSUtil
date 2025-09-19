@@ -1,0 +1,11 @@
+{
+  "squeak": {
+    "subtitle": "subtitles.squeak",
+    "sounds": [
+      {
+        "name": "fsutil:squeak",
+        "stream": false
+      }
+    ]
+  }
+}

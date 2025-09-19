@@ -1,0 +1,58 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.netherite_hoe - Converted",
+				"texture_width": 256,
+				"texture_height": 128,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "left_arm",
+					"pivot": [0, 1.55, 0],
+					"cubes": [
+						{
+							"origin": [-4.8, -0.05, -1.2],
+							"size": [9.6, 3.2, 2.4],
+							"pivot": [0, 1.55, 0],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"north": {"uv": [0, 32], "uv_size": [32, 96], "uv_rotation": 270},
+								"east": {"uv": [32, 0], "uv_size": [24, 32]},
+								"south": {"uv": [56, 32], "uv_size": [32, 96], "uv_rotation": 90},
+								"west": {"uv": [56, 0], "uv_size": [24, 32]},
+								"up": {"uv": [56, 128], "uv_size": [-24, -96], "uv_rotation": 90},
+								"down": {"uv": [112, 128], "uv_size": [-24, -96], "uv_rotation": 90}
+							}
+						}
+					]
+				},
+				{
+					"name": "Left Sleeve",
+					"parent": "left_arm",
+					"pivot": [4, 17.35, 0],
+					"cubes": [
+						{
+							"origin": [-5, -0.25, -1.4],
+							"size": [10, 3.6, 2.8],
+							"pivot": [0, 1.55, 0],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"north": {"uv": [128, 32], "uv_size": [32, 96], "uv_rotation": 270},
+								"east": {"uv": [231, 0], "uv_size": [25, 19]},
+								"south": {"uv": [184, 32], "uv_size": [32, 96], "uv_rotation": 90},
+								"west": {"uv": [197, 8], "uv_size": [26, 16]},
+								"up": {"uv": [184, 128], "uv_size": [-24, -96], "uv_rotation": 90},
+								"down": {"uv": [240, 128], "uv_size": [-24, -96], "uv_rotation": 90}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

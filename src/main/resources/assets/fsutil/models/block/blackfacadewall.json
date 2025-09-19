@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fsutil:block/blackfacadewall",
+    "up": "fsutil:block/blackfacadewall",
+    "north": "fsutil:block/blackfacadewall",
+    "east": "fsutil:block/blackfacadewall",
+    "south": "fsutil:block/blackfacadewall",
+    "west": "fsutil:block/blackfacadewall",
+    "particle": "fsutil:block/blackfacadewall"
+  },
+  "render_type": "solid"
+}

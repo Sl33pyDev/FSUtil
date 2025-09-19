@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fsutil:block/tiled_black_brick_wall"
+    }
+  }
+}
